@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643230903 source:c:\users\abrham\documents\abrsh project c++\snake game\main.cpp
+	<iostream>
+	<conio.h>
+

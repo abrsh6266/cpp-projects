@@ -1,0 +1,21 @@
+--------------------------------------------------
+student id        :1
+the mark of a student: 149
+the average of score     :29.8
+--------------------------------------------------
+student id        :2
+the mark of a student: 95401
+the average of score     :19080.2
+--------------------------------------------------
+student id        :3
+the mark of a student: 315
+the average of score     :63
+--------------------------------------------------
+student id        :34
+the mark of a student: 650
+the average of score     :130
+--------------------------------------------------
+student id        :45
+the mark of a student: 197
+the average of score     :39.4
+--------------------------------------------------

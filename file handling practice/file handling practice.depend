@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650835767 source:c:\users\abrham\documents\abrsh project c++\file handling practice\main.cpp
+	<iostream>
+	<fstream>
+

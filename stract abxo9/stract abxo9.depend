@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650700632 source:c:\users\abrham\documents\abrsh project c++\stract abxo9\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

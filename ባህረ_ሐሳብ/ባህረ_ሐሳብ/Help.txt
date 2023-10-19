@@ -1,0 +1,12 @@
+Welcome to our simple console calendar application
+    
+At any time :
+
+    CLICK 'M' on the keyboard to return to main menu!
+
+    CLICK 'R' on the keyboard to reload the page!
+
+    CLICK 'H' on the keyboard for help!
+
+    CLICK any other character to exit!
+

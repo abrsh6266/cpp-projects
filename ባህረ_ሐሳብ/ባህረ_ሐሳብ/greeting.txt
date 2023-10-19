@@ -1,0 +1,10 @@
+Welcome to our simple console calendar application
+
+Here you can :
+    Print calendar for a month
+    Calculate Holidays of a year
+    Calculate Fastings of a year
+    See Basic Informations of a year
+    Convert a date from Ethiopian to Gregorian
+    Calculate the day of the week
+    See Fixed Holidays 

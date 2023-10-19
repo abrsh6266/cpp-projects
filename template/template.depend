@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651227558 source:c:\users\abrham\documents\abrsh project c++\template\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+

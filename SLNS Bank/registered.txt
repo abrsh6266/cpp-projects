@@ -1,0 +1,8 @@
+Active samuel tesfaye sam 1 0901948297 10000010 sampass
+Active naos belay nabelay 2 0942498787 10000011 napass
+Active wondwossen dufera wen 2 09352153813 10000012 wenpass
+Active laywana kibrom lay 1 0921653413 10000013 laypass
+Active samuel wendm samwend 1 0935215153 10000014 sampass
+Inactive mohammed reshad muhe 2 0989584126 10000015 muhepass
+Active Abebe Bekele abebeke 2 0916234587 10000016 Beso
+Active Sifen Hasen sifha 1 0904626994 10000017 repcs2

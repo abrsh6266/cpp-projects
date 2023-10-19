@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651527091 source:c:\users\abrham\documents\abrsh project c++\calendar conversion\main.cpp
+	<iostream>
+	<string>
+	<fcntl.h>
+	<io.h>
+

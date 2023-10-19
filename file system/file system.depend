@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645512794 source:c:\users\abrham\documents\abrsh project c++\file system\main.cpp
+	<iostream>
+	<fstream>
+

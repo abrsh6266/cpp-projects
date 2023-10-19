@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671652855 source:c:\users\abrham\documents\abrsh project c++\fuck\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
